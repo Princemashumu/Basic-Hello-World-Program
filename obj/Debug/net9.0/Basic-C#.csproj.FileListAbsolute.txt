@@ -1,0 +1,14 @@
+C:\Users\princ\documents\Basic-C#\bin\Debug\net9.0\Basic-C#.exe
+C:\Users\princ\documents\Basic-C#\bin\Debug\net9.0\Basic-C#.deps.json
+C:\Users\princ\documents\Basic-C#\bin\Debug\net9.0\Basic-C#.runtimeconfig.json
+C:\Users\princ\documents\Basic-C#\bin\Debug\net9.0\Basic-C#.dll
+C:\Users\princ\documents\Basic-C#\bin\Debug\net9.0\Basic-C#.pdb
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.AssemblyInfoInputs.cache
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.AssemblyInfo.cs
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.csproj.CoreCompileInputs.cache
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.dll
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\refint\Basic-C#.dll
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.pdb
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\Basic-C#.genruntimeconfig.cache
+C:\Users\princ\documents\Basic-C#\obj\Debug\net9.0\ref\Basic-C#.dll
